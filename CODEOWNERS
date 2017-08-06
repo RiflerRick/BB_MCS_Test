@@ -2,6 +2,9 @@
 
 # now another comment
 
+test_dir/*.js	@RiflerRick
+
 test_dir/owners.txt	@RiflerRick
 
-test_dir/*	@RiflerRick @srikar8
+
+
