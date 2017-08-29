@@ -3,3 +3,4 @@ django
 urllib2
 jinja2
 Django==1.11.3
+pyqt
